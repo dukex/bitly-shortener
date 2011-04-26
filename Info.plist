@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Miguel Angel Lorente</string>
+	<string>Emerson Vinicius</string>
 	<key>CFBundleDisplayName</key>
 	<string>Bit.ly Shortener</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.miguelcanijo.bitly</string>
+	<string>com.duke.bitly</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -56,6 +56,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>http://code.google.com/p/safari-bitly-shortener/</string>
+	<string>https://github.com/emersonvinicius/bitly-shortener</string>
 </dict>
 </plist>
