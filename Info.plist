@@ -33,6 +33,8 @@
 				<string>bit.ly shortener</string>
 				<key>Palette Label</key>
 				<string>bit.ly Shortener</string>
+				<key>Tool Tip</key>
+				<string>Short this url</string>
 			</dict>
 		</array>
 	</dict>
